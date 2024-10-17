@@ -37,9 +37,6 @@ async function montaGraf(){
     }
 
 //Adiciona gap entre as divs do grafico quando em 15 ou 7 dias;
-
-
-    
     let maior = 0;
 
     try {
